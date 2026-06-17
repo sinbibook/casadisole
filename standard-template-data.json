@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-06-16T07:47:03.388420590Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-06-17T01:27:23.810629647Z",
     "templateType": "fullpage_visual",
     "propertyId": "e13e90a7-33bd-478f-b523-d75bae32a181",
     "homepageId": "6a4a56d7-407b-49e0-af94-df0d7ab1c837"
@@ -15,7 +15,7 @@
     "address": "강원특별자치도 춘천시 남산면 햇골길 13-21",
     "latitude": 37.8361567837241,
     "longitude": 127.535141525996,
-    "contactPhone": "",
+    "contactPhone": "010-8144-7701",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -454,7 +454,7 @@
     {
       "id": "360ae653-e3c2-45fe-a57b-e1e0a8da960b",
       "name": "200호(개별바베큐)",
-      "description": "-",
+      "description": "복층, 침대룸(더블침대1+싱글침대1)+주방1+화장실1\n마운틴뷰, 15평\n",
       "roomInfo": "-",
       "usageGuide": "-",
       "group": "-",
@@ -532,7 +532,7 @@
     {
       "id": "09dda14a-ccd2-477a-b3a6-02b659699e54",
       "name": "201호(자쿠지)",
-      "description": "",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\n마운틴뷰, 숲전망, 15평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -611,7 +611,7 @@
     {
       "id": "b07f06e8-ca35-4bc8-934b-ecbc3bd2706b",
       "name": "202호(자쿠지)",
-      "description": "",
+      "description": "침대룸(더블침대1)+주방1+화장실1\n15평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -669,7 +669,7 @@
     {
       "id": "1ca9af7b-8b92-4e4b-b6c8-16f4417d68cb",
       "name": "301호",
-      "description": "",
+      "description": "침대룸(더블침대1)+주방1+화장실1\n15평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -727,7 +727,7 @@
     {
       "id": "cb7818d6-9dc7-46f3-964f-18976a785f2b",
       "name": "302호",
-      "description": "",
+      "description": "침대룸(더블침대1)+주방1+화장실1\n15평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -785,7 +785,7 @@
     {
       "id": "ae636852-d228-45a3-835c-4ca568510d4a",
       "name": "303호",
-      "description": "",
+      "description": "침대룸(더블침대1)+주방1+화장실1\n15평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -843,7 +843,7 @@
     {
       "id": "7cdc168f-3876-4101-a69d-de5611903c62",
       "name": "특실(개별바베큐)",
-      "description": "",
+      "description": "침대룸(더블침대1+싱글침대1)+주방1+화장실1\n25평",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -2290,28 +2290,10 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "d7e42989-b8df-4ea7-84bb-873dde446fbb",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781580282467-nafigig3jq.jpg",
-              "sortOrder": 19,
-              "description": "",
-              "isSelected": true,
-              "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
-              "category": "roomtype_exterior"
-            },
-            {
               "id": "adf058ae-3e26-4d4c-8082-4c603e3769eb",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781595960628-1on6voggkn.jpg",
-              "sortOrder": 20,
+              "sortOrder": 19,
               "description": "거실",
-              "isSelected": true,
-              "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "0934d50d-ed87-4368-a9de-c9c79e6297c0",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781580282573-lujg1bnfgh.jpg",
-              "sortOrder": 21,
-              "description": "",
               "isSelected": true,
               "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
               "category": "roomtype_exterior"
@@ -2319,17 +2301,8 @@
             {
               "id": "42ed0627-4dea-42e0-9da5-28f988ad7feb",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781595960827-7bkoc4w1je.jpg",
-              "sortOrder": 22,
+              "sortOrder": 20,
               "description": "마운틴뷰",
-              "isSelected": true,
-              "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "0914917a-8e52-419e-8f9e-12c540af395f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781580282566-vaufqr25gn.jpg",
-              "sortOrder": 23,
-              "description": "",
               "isSelected": true,
               "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
               "category": "roomtype_exterior"
@@ -2337,7 +2310,7 @@
             {
               "id": "28f7eb7d-d234-40ef-989f-96f8b891c8b3",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781595960737-95ow1wk9pn.jpg",
-              "sortOrder": 24,
+              "sortOrder": 21,
               "description": "침실",
               "isSelected": true,
               "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
@@ -2346,7 +2319,7 @@
             {
               "id": "31e9cfaf-e707-4444-967d-a964b76eebd7",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a4a56d7-407b-49e0-af94-df0d7ab1c837/roomtype_exterior/1781595960840-dg8ohvib2z.jpg",
-              "sortOrder": 25,
+              "sortOrder": 22,
               "description": "개별바베큐",
               "isSelected": true,
               "blockId": "7cdc168f-3876-4101-a69d-de5611903c62",
