@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-07-14T03:37:53.404923769Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-07-14T03:42:21.602397469Z",
     "templateType": "fullpage_visual",
     "propertyId": "e13e90a7-33bd-478f-b523-d75bae32a181",
     "homepageId": "6a4a56d7-407b-49e0-af94-df0d7ab1c837"
@@ -26,7 +26,7 @@
     "city": "시/군/구",
     "domain": "casadisole.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1679481",
-    "ybsId": "",
+    "ybsId": "https://rev.yapen.co.kr/external/set?ypIdx=80719",
     "amenities": [
       "주차장"
     ],
